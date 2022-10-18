@@ -1,0 +1,57 @@
+Request starting HTTP/1.1 GET http://localhost:55379/  
+The file /index.html was not modified
+Request finished in 84.3899ms 304 text/html
+Request starting HTTP/1.1 GET http://localhost:55379/  
+The file /index.html was not modified
+Request finished in 17.6954ms 304 text/html
+Request starting HTTP/1.1 GET http://localhost:55379/favicon.ico  
+Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Семен\source\repos\MyCoreWebApplication2\MyCoreWebApplication2\wwwroot\favicon.ico'
+Request finished in 20.0235ms 200 image/x-icon
+Request starting HTTP/1.1 GET http://localhost:55379/index  
+Processing request /index
+Request finished in 19.9636ms 200 
+Request starting HTTP/1.1 GET http://localhost:55379/  
+The file /index.html was not modified
+Request finished in 53.995ms 304 text/html
+Request starting HTTP/1.1 GET http://localhost:55379/index  
+Processing request /index
+Request finished in 18.0152ms 200 
+Request starting HTTP/1.1 GET http://localhost:55379/index.html  
+Sending file. Request path: '/index.html'. Physical path: 'C:\Users\Семен\source\repos\MyCoreWebApplication2\MyCoreWebApplication2\wwwroot\index.html'
+Request finished in 27.2645ms 200 text/html
+Request starting HTTP/1.1 GET http://localhost:55379/  
+The file /index.html was not modified
+Request finished in 55.23ms 304 text/html
+Request starting HTTP/1.1 GET http://localhost:55379/favicon.ico  
+Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Семен\source\repos\MyCoreWebApplication2\MyCoreWebApplication2\wwwroot\favicon.ico'
+Request finished in 14.7972ms 200 image/x-icon
+Request starting HTTP/1.1 GET http://localhost:55379/index  
+Processing request /index
+Request finished in 12.623ms 200 
+Request starting HTTP/1.1 GET http://localhost:55379/index.html  
+Sending file. Request path: '/index.html'. Physical path: 'C:\Users\Семен\source\repos\MyCoreWebApplication2\MyCoreWebApplication2\wwwroot\index.html'
+Request finished in 23.7035ms 200 text/html
+Request starting HTTP/1.1 GET http://localhost:55379/index  
+Processing request /index
+Request finished in 9.6495ms 200 
+Request starting HTTP/1.1 GET http://localhost:55379/index  
+Processing request /index
+Request finished in 49.4315ms 200 
+Request starting HTTP/1.1 GET http://localhost:55379/index  
+Processing request /index
+Request finished in 52.727ms 200 
+Request starting HTTP/1.1 GET http://localhost:55379/pages  
+Request finished in 19.0955ms 301 
+Request starting HTTP/1.1 GET http://localhost:55379/pages/  
+Request finished in 134.5155ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:55379/pages/lib/  
+Request finished in 10.6374ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:55379/pages/lib/bootstrap/  
+Request finished in 10.8234ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:55379/pages/lib/bootstrap/dist/  
+Request finished in 14.7116ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:55379/pages/lib/bootstrap/dist/js/  
+Request finished in 11.526ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:55379/pages/lib/bootstrap/dist/js/bootstrap.js  
+Processing request /pages/lib/bootstrap/dist/js/bootstrap.js
+Request finished in 22.2588ms 200 

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MyCoreProject.Models.Test>
+@{
+    //ViewData["Title"] = "Список смартфонов";
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Хранилище тестов</title>
+</head>
+<body>
+    <h3>Хранилище тестов</h3>
+    <table>
+        <tr>
+            <td>№</td>
+            <td>Название</td>
+            <td>Ссылка</td>
+            <td></td>
+        </tr>
+        @foreach (var elem in Model)
+        {
+            <tr>
+                <td>@elem.Id</td>
+                <td>@elem.Name</td>
+                @*<td>@phone.Price</td>*@
+                <td><a href="~/Home/Buy/@elem.Id">Пройти</a></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
